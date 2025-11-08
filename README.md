@@ -25,7 +25,7 @@ Wanderlust is a **full-stack hotel listing platform** that allows users to **bro
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/MohdAahil01/Major_Project.git
+   git clone https://github.com/gauriruby1/Major_Project.git
    cd Major_Project
    ```
 
@@ -44,4 +44,4 @@ Contributions are welcome! Feel free to **fork**, make improvements, and submit 
 This project is licensed under the **MIT License**.
 
 ---
-🚀 **Developed by [Mohd Aahil](https://github.com/MohdAahil01)**
+🚀 **Developed by [Gauri Shivhare](https://github.com/gauriruby)**
